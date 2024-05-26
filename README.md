@@ -4,7 +4,7 @@
 Aplikacja została napisana z użyciem technologii Java oraz JavaFX. Aplikacja została zrealizowana we współpracy z Peter022000 (Piotr Duda) w ramach projektu na studia.
 
 # Udział
-Za wygląd aplikacji w całości odpowiedzialny byłem ja natomiast logika została zaimplementowana przez Peter022000.
+Za wygląd aplikacji w całości odpowiedzialny byłem ja natomiast logika została zaimplementowana przez Peter022000. Orginalne repozytorium: https://github.com/Peter022000/IndexingImage
 
 # Opis projektu
 Aplikacja stworzona w Java FX umożliwia dwuprogową indeksację obrazków w odcieniach szarości za pomocą metod grafu i tabeli równoważności (equivalence table). Dwuprogowa indeksacja to technika przetwarzania obrazów, która pozwala na wydzielenie obszarów zainteresowania w obrazach na podstawie dwóch progów intensywności.
